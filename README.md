@@ -10,16 +10,19 @@
 
 ## 👋 Hola, soy Héctor
 
-Desarrollador web en **LAB**. Hago sitios para negocios que se ven bien en el celular, cargan rápido, funcionan en
-**español e inglés** y traen un panel sencillo para que el dueño actualice su información sin depender de nadie.
+Desarrollador web en **LAB**. Hago sitios para negocios y organizaciones que se ven bien en el celular, cargan rápido,
+funcionan en **español e inglés** y traen un panel sencillo para que el dueño actualice su información sin depender de nadie.
 
-- 🔭 **Ahora mismo:** lanzando un catálogo bilingüe para un concesionario de autos usados en Maryland, EE. UU.
+- ✅ **Recién entregado:** [AUTO LIFE](https://www.autolifellc.com), catálogo bilingüe de un concesionario de autos
+  usados en Laurel, Maryland (EE. UU.), ya en línea.
+- 🔭 **Ahora mismo:** construyendo el sitio web de **Ministerios Belén**, una iglesia cristiana en Chalchuapa,
+  El Salvador.
 - 💬 **Pregúntame sobre:** Next.js, Supabase, seguridad web, SEO para negocios locales y sitios bilingües.
 - 📫 **¿Quieres una página web?** Escríbenos por [Instagram](https://www.instagram.com/mr_anchetaa/).
 
 ## 🛠️ Lo que hago
 
-- 🌐 **Sitios para negocios:** catálogos, páginas de servicios y contacto directo por WhatsApp.
+- 🌐 **Sitios para negocios y organizaciones:** catálogos, páginas de servicios y contacto directo por WhatsApp.
 - 🗂️ **Paneles de administración** para personal no técnico: subir fotos, cambiar precios, marcar un producto como vendido.
 - 🌎 **Español e inglés de punta a punta:** cada idioma con su propia dirección, para que Google muestre el correcto.
 - 🔒 **Seguridad desde el diseño:** reglas en la base de datos, sesiones protegidas y límite de intentos al iniciar sesión.
@@ -28,7 +31,14 @@ Desarrollador web en **LAB**. Hago sitios para negocios que se ven bien en el ce
 
 ## ⭐ Proyecto destacado
 
-### Catálogo bilingüe para un concesionario de autos usados · Maryland, EE. UU.
+### AUTO LIFE · Catálogo bilingüe de autos usados · Laurel, Maryland, EE. UU.
+
+<p>
+  <img src="https://img.shields.io/badge/Estado-En_l%C3%ADnea_desde_octubre_2026-0cce6b?style=flat-square" alt="Estado: en línea desde octubre de 2026">
+  <a href="https://www.autolifellc.com"><img src="https://img.shields.io/badge/Ver_sitio-autolifellc.com-ff5252?style=flat-square" alt="Ver el sitio en vivo: autolifellc.com"></a>
+</p>
+
+<a href="https://www.autolifellc.com"><img src="autolife.jpg" alt="Sitio de AUTO LIFE: página de inicio en computadora y lista de autos en el celular" width="100%"></a>
 
 Sitio público y panel de administración. El cliente ve el inventario con fotos reales, filtra por marca, precio o
 tipo, y escribe por WhatsApp; el personal publica y actualiza los autos desde el celular.
@@ -43,6 +53,9 @@ tipo, y escribe por WhatsApp; el personal publica y actualiza los autos desde el
 - 🔎 **SEO y autoridad:** datos estructurados (AutoDealer, Car, FAQ), una versión por idioma, sitemap y `llms.txt`
   para asistentes de IA.
 - ✅ **Calidad medida:** cientos de pruebas automáticas en el navegador (Playwright) antes de cada entrega.
+- 🚀 **Lanzamiento completo:** dominio propio con HTTPS, sitio ya indexado en Google, servidor en la misma región que
+  la base de datos y llaves de acceso renovadas antes de abrir al público.
+- 📘 **Manual de usuario** con capturas en celular y computadora, para que el personal use el panel por su cuenta.
 
 <p>
   <img src="https://img.shields.io/badge/Lighthouse_celular-90--95-0cce6b?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse en celular: 90 a 95">
@@ -52,6 +65,31 @@ tipo, y escribe por WhatsApp; el personal publica y actualiza los autos desde el
 </p>
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `Vercel` · `GitHub Actions` · `Playwright`
+
+> 🔒 El código es privado: es un proyecto de cliente.
+
+## 🚧 Proyecto en curso
+
+### Ministerios Belén · Sitio web de una iglesia cristiana · Chalchuapa, El Salvador
+
+<img src="https://img.shields.io/badge/Estado-En_desarrollo-f59e0b?style=flat-square" alt="Estado: en desarrollo">
+
+Un solo lugar para la comunidad de la iglesia: horarios, eventos, ministerios, prédicas, transmisiones en vivo y
+donaciones, pensado primero para el celular.
+
+- 🔴 **Directos automáticos:** la barra superior cambia sola a "En vivo ahora" cuando el canal de YouTube empieza a
+  transmitir, sin recargar la página y sin claves de API.
+- 📖 **Biblioteca de prédicas:** más de 100 prédicas convertidas desde Word con un script propio, con buscador, filtros,
+  recorrido por meses y un lector con tamaño de letra y progreso.
+- 📝 **Libreta de notas privada:** las notas de cada persona se quedan en su dispositivo; nunca se envían a un servidor.
+- 📺 **Redes en un solo lugar:** últimos videos de YouTube con "A continuación", TikTok, Instagram y Facebook, y una
+  ventana por ministerio con su equipo, fotos y videos.
+- 🍪 **Privacidad de verdad:** sin permiso del visitante no se carga nada de TikTok, Instagram, Facebook ni Google Maps,
+  y las fotos siguen una política de imagen que protege a los menores.
+- ⚖️ **Centro legal:** privacidad, cookies, términos, donaciones, uso de imagen y accesibilidad.
+- ⚡ **Liviano:** CSS propio sin frameworks y animaciones que respetan la opción "reducir movimiento".
+
+`React` · `Vite` · `CSS` · `Vercel Functions` · `Python`
 
 > 🔒 El código es privado: es un proyecto de cliente.
 
@@ -70,6 +108,7 @@ tipo, y escribe por WhatsApp; el personal publica y actualiza los autos desde el
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Tailwind_CSS-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
 
@@ -99,25 +138,27 @@ tipo, y escribe por WhatsApp; el personal publica y actualiza los autos desde el
 
 ### 👋 Hi, I'm Héctor
 
-Web developer at **LAB**. I build business websites that look great on phones, load fast, work in **English and
-Spanish**, and come with a simple admin panel so owners can update their information on their own.
+Web developer at **LAB**. I build websites for businesses and organizations that look great on phones, load fast, work
+in **English and Spanish**, and come with a simple admin panel so owners can update their information on their own.
 
-- 🔭 **Currently:** launching a bilingual catalog for a used car dealership in Maryland, USA.
+- ✅ **Just delivered:** [AUTO LIFE](https://www.autolifellc.com), a bilingual catalog for a used car dealership in
+  Laurel, Maryland (USA), now live.
+- 🔭 **Currently:** building the website of **Ministerios Belén**, a Christian church in Chalchuapa, El Salvador.
 - 💬 **Ask me about:** Next.js, Supabase, web security, local-business SEO and bilingual websites.
 - 📫 **Want a website?** Message us on [Instagram](https://www.instagram.com/mr_anchetaa/).
 
 ### 🛠️ What I do
 
-- 🌐 **Business websites:** catalogs, service pages and direct contact on WhatsApp.
+- 🌐 **Websites for businesses and organizations:** catalogs, service pages and direct contact on WhatsApp.
 - 🗂️ **Admin panels** for non-technical staff: upload photos, change prices, mark an item as sold.
 - 🌎 **English and Spanish end to end:** each language has its own address, so Google shows the right one.
 - 🔒 **Security by design:** database rules, protected sessions and login attempt limits.
 - 🔎 **Google and AI assistants:** structured data, sitemap and `llms.txt` so the business shows up and is understood.
 - ⚡ **Speed and accessibility:** green Lighthouse scores and WCAG 2.1 AA checks on every page.
 
-### ⭐ Featured project: bilingual catalog for a used car dealership (Maryland, USA)
+### ⭐ Featured project: AUTO LIFE, bilingual used car catalog (Laurel, Maryland, USA)
 
-Public website and admin panel. Customers browse the inventory with real photos, filter by make, price or body style,
+✅ **Live since October 2026** at [autolifellc.com](https://www.autolifellc.com). Public website and admin panel. Customers browse the inventory with real photos, filter by make, price or body style,
 and message the dealer on WhatsApp; staff publish and update cars from their phones.
 
 - 🔴 **Live inventory:** when a car is marked as sold, every open screen updates in about 1 second, no reload needed.
@@ -129,6 +170,28 @@ and message the dealer on WhatsApp; staff publish and update cars from their pho
   for AI assistants.
 - ✅ **Measured quality:** Lighthouse 90–95 on mobile and 100 on desktop; accessibility, best practices and SEO at
   100; hundreds of automated browser tests (Playwright) before every release.
+- 🚀 **Full launch:** custom domain with HTTPS, already indexed by Google, server in the same region as the database,
+  and access keys renewed before going public.
+- 📘 **User manual** with phone and desktop screenshots, so staff can run the admin panel on their own.
+
+> 🔒 The code is private: it's a client project.
+
+### 🚧 In progress: Ministerios Belén, website for a Christian church (Chalchuapa, El Salvador)
+
+One place for the church community: schedules, events, ministries, sermons, live streams and donations, designed
+mobile-first.
+
+- 🔴 **Automatic live streams:** the top bar switches to "Live now" by itself when the YouTube channel goes live, with no
+  page reload and no API keys.
+- 📖 **Sermon library:** more than 100 sermons converted from Word with a custom script, with search, filters, a
+  month-by-month view and a reader with text size and progress.
+- 📝 **Private notebook:** each person's notes stay on their own device and are never sent to a server.
+- 📺 **Social media in one place:** latest YouTube videos with "Up next", TikTok, Instagram and Facebook, plus a window
+  for each ministry with its team, photos and videos.
+- 🍪 **Real privacy:** nothing from TikTok, Instagram, Facebook or Google Maps loads without the visitor's consent, and
+  photos follow an image policy that protects minors.
+- ⚖️ **Legal center:** privacy, cookies, terms, donations, image use and accessibility.
+- ⚡ **Lightweight:** hand-written CSS with no frameworks, and animations that respect "reduce motion".
 
 > 🔒 The code is private: it's a client project.
 
