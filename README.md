@@ -98,12 +98,11 @@ donaciones, pensado primero para el celular. El equipo de multimedia actualiza e
 - 🔎 **Google y asistentes de IA:** ficha de la iglesia con dirección y horarios (datos estructurados `Church`),
   vista previa con foto al compartir, sitemap y `llms.txt` generados en cada publicación.
 - ⚖️ **Centro legal:** privacidad, cookies, términos, donaciones, uso de imagen y accesibilidad.
-- 💸 **Costo mínimo:** la iglesia solo paga el dominio; el sitio, las funciones y el panel corren en planes gratuitos.
 - ⚡ **Liviano:** CSS propio sin frameworks y animaciones que respetan la opción "reducir movimiento".
 
 <p>
-  <img src="https://img.shields.io/badge/Lighthouse_celular-84--85-ffa400?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse en celular: 84 a 85">
-  <img src="https://img.shields.io/badge/Lighthouse_computadora-99-0cce6b?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse en computadora: 99">
+  <img src="https://img.shields.io/badge/Lighthouse_celular-93--94-0cce6b?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse en celular: 93 a 94">
+  <img src="https://img.shields.io/badge/Lighthouse_computadora-98--100-0cce6b?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse en computadora: 98 a 100">
   <img src="https://img.shields.io/badge/Accesibilidad-100-0cce6b?style=flat-square" alt="Accesibilidad: 100">
   <img src="https://img.shields.io/badge/Buenas_pr%C3%A1cticas-100-0cce6b?style=flat-square" alt="Buenas prácticas: 100">
   <img src="https://img.shields.io/badge/SEO-100-0cce6b?style=flat-square" alt="SEO: 100">
@@ -220,9 +219,8 @@ events and photos on their own.
 - 🔎 **Google and AI assistants:** church listing with address and service times (`Church` structured data), photo
   preview when shared, and a sitemap and `llms.txt` generated on every release.
 - ⚖️ **Legal center:** privacy, cookies, terms, donations, image use and accessibility.
-- 💸 **Minimal cost:** the church only pays for the domain; the site, functions and admin panel run on free plans.
 - ⚡ **Lightweight:** hand-written CSS with no frameworks, and animations that respect "reduce motion".
-- ✅ **Measured quality:** Lighthouse 84–85 on mobile and 99 on desktop; accessibility, best practices and SEO at 100.
+- ✅ **Measured quality:** Lighthouse 93–94 on mobile and 98–100 on desktop; accessibility, best practices and SEO at 100.
 
 > 🔒 The code is private: it's a client project.
 
