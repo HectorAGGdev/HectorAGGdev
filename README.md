@@ -13,10 +13,11 @@
 Desarrollador web en **LAB**. Hago sitios para negocios y organizaciones que se ven bien en el celular, cargan rápido,
 funcionan en **español e inglés** y traen un panel sencillo para que el dueño actualice su información sin depender de nadie.
 
-- ✅ **Recién entregado:** [AUTO LIFE](https://www.autolifellc.com), catálogo bilingüe de un concesionario de autos
-  usados en Laurel, Maryland (EE. UU.), ya en línea.
-- 🔭 **Ahora mismo:** construyendo el sitio web de **Ministerios Belén**, una iglesia cristiana en Chalchuapa,
-  El Salvador.
+- ✅ **Recién entregados y en línea:**
+  - [Ministerios Belén](https://ministeriosbelen.com), sitio bilingüe de una iglesia cristiana en Chalchuapa,
+    El Salvador.
+  - [AUTO LIFE](https://www.autolifellc.com), catálogo bilingüe de un concesionario de autos usados en Laurel,
+    Maryland (EE. UU.).
 - 💬 **Pregúntame sobre:** Next.js, Supabase, seguridad web, SEO para negocios locales y sitios bilingües.
 - 📫 **¿Quieres una página web?** Escríbenos por [Instagram](https://www.instagram.com/mr_anchetaa/).
 
@@ -29,7 +30,7 @@ funcionan en **español e inglés** y traen un panel sencillo para que el dueño
 - 🔎 **Google y asistentes de IA:** datos estructurados, sitemap y `llms.txt` para que el negocio aparezca y se entienda bien.
 - ⚡ **Velocidad y accesibilidad:** Lighthouse en verde y revisión WCAG 2.1 AA en cada página.
 
-## ⭐ Proyecto destacado
+## ⭐ Proyectos destacados
 
 ### AUTO LIFE · Catálogo bilingüe de autos usados · Laurel, Maryland, EE. UU.
 
@@ -68,28 +69,38 @@ tipo, y escribe por WhatsApp; el personal publica y actualiza los autos desde el
 
 > 🔒 El código es privado: es un proyecto de cliente.
 
-## 🚧 Proyecto en curso
+### Ministerios Belén · Sitio web bilingüe de una iglesia cristiana · Chalchuapa, El Salvador
 
-### Ministerios Belén · Sitio web de una iglesia cristiana · Chalchuapa, El Salvador
+<p>
+  <img src="https://img.shields.io/badge/Estado-Entregado_y_en_l%C3%ADnea-0cce6b?style=flat-square" alt="Estado: entregado y en línea">
+  <a href="https://ministeriosbelen.com"><img src="https://img.shields.io/badge/Ver_sitio-ministeriosbelen.com-d4af37?style=flat-square" alt="Ver el sitio en vivo: ministeriosbelen.com"></a>
+</p>
 
-<img src="https://img.shields.io/badge/Estado-En_desarrollo-f59e0b?style=flat-square" alt="Estado: en desarrollo">
+<a href="https://ministeriosbelen.com"><img src="ministeriosbelen.jpg" alt="Sitio de Ministerios Belén: página de inicio en computadora y biblioteca de prédicas en el celular" width="100%"></a>
 
 Un solo lugar para la comunidad de la iglesia: horarios, eventos, ministerios, prédicas, transmisiones en vivo y
-donaciones, pensado primero para el celular.
+donaciones, pensado primero para el celular. El equipo de multimedia actualiza eventos y fotos por su cuenta.
 
 - 🔴 **Directos automáticos:** la barra superior cambia sola a "En vivo ahora" cuando el canal de YouTube empieza a
   transmitir, sin recargar la página y sin claves de API.
-- 📖 **Biblioteca de prédicas:** más de 100 prédicas convertidas desde Word con un script propio, con buscador, filtros,
+- 📖 **Biblioteca de prédicas:** 104 prédicas convertidas desde Word con un script propio, con buscador, filtros,
   recorrido por meses y un lector con tamaño de letra y progreso.
+- 🌎 **Español e inglés:** un botón cambia todo el sitio al instante, incluidas las 104 prédicas traducidas y los
+  versículos en una Biblia de dominio público.
+- 🗂️ **Panel para el equipo de multimedia:** eventos, álbumes, galería y equipos de cada ministerio desde el celular,
+  con revisión antes de publicar, acceso solo desde dispositivos autorizados y un manual en PDF.
 - 📝 **Libreta de notas privada:** las notas de cada persona se quedan en su dispositivo; nunca se envían a un servidor.
 - 📺 **Redes en un solo lugar:** últimos videos de YouTube con "A continuación", TikTok, Instagram y Facebook, y una
   ventana por ministerio con su equipo, fotos y videos.
 - 🍪 **Privacidad de verdad:** sin permiso del visitante no se carga nada de TikTok, Instagram, Facebook ni Google Maps,
   y las fotos siguen una política de imagen que protege a los menores.
+- 🔎 **Google y asistentes de IA:** ficha de la iglesia con dirección y horarios (datos estructurados `Church`),
+  vista previa con foto al compartir, sitemap y `llms.txt` generados en cada publicación.
 - ⚖️ **Centro legal:** privacidad, cookies, términos, donaciones, uso de imagen y accesibilidad.
+- 💸 **Costo mínimo:** la iglesia solo paga el dominio; el sitio, las funciones y el panel corren en planes gratuitos.
 - ⚡ **Liviano:** CSS propio sin frameworks y animaciones que respetan la opción "reducir movimiento".
 
-`React` · `Vite` · `CSS` · `Vercel Functions` · `Python`
+`React` · `Vite` · `CSS` · `Vercel Functions` · `Vercel Middleware` · `Sveltia CMS` · `Python`
 
 > 🔒 El código es privado: es un proyecto de cliente.
 
@@ -141,9 +152,10 @@ donaciones, pensado primero para el celular.
 Web developer at **LAB**. I build websites for businesses and organizations that look great on phones, load fast, work
 in **English and Spanish**, and come with a simple admin panel so owners can update their information on their own.
 
-- ✅ **Just delivered:** [AUTO LIFE](https://www.autolifellc.com), a bilingual catalog for a used car dealership in
-  Laurel, Maryland (USA), now live.
-- 🔭 **Currently:** building the website of **Ministerios Belén**, a Christian church in Chalchuapa, El Salvador.
+- ✅ **Just delivered and live:**
+  - [Ministerios Belén](https://ministeriosbelen.com), a bilingual website for a Christian church in Chalchuapa,
+    El Salvador.
+  - [AUTO LIFE](https://www.autolifellc.com), a bilingual catalog for a used car dealership in Laurel, Maryland (USA).
 - 💬 **Ask me about:** Next.js, Supabase, web security, local-business SEO and bilingual websites.
 - 📫 **Want a website?** Message us on [Instagram](https://www.instagram.com/mr_anchetaa/).
 
@@ -176,21 +188,29 @@ and message the dealer on WhatsApp; staff publish and update cars from their pho
 
 > 🔒 The code is private: it's a client project.
 
-### 🚧 In progress: Ministerios Belén, website for a Christian church (Chalchuapa, El Salvador)
+### ⭐ Featured project: Ministerios Belén, bilingual website for a Christian church (Chalchuapa, El Salvador)
 
-One place for the church community: schedules, events, ministries, sermons, live streams and donations, designed
-mobile-first.
+✅ **Delivered and live** at [ministeriosbelen.com](https://ministeriosbelen.com). One place for the church community:
+schedules, events, ministries, sermons, live streams and donations, designed mobile-first. The media team updates
+events and photos on their own.
 
 - 🔴 **Automatic live streams:** the top bar switches to "Live now" by itself when the YouTube channel goes live, with no
   page reload and no API keys.
-- 📖 **Sermon library:** more than 100 sermons converted from Word with a custom script, with search, filters, a
-  month-by-month view and a reader with text size and progress.
+- 📖 **Sermon library:** 104 sermons converted from Word with a custom script, with search, filters, a month-by-month
+  view and a reader with text size and progress.
+- 🌎 **Spanish and English:** one button switches the whole site instantly, including all 104 translated sermons and
+  verses from a public-domain Bible.
+- 🗂️ **Admin panel for the media team:** events, albums, gallery and ministry teams from a phone, with review before
+  publishing, access only from authorized devices, and a PDF manual.
 - 📝 **Private notebook:** each person's notes stay on their own device and are never sent to a server.
 - 📺 **Social media in one place:** latest YouTube videos with "Up next", TikTok, Instagram and Facebook, plus a window
   for each ministry with its team, photos and videos.
 - 🍪 **Real privacy:** nothing from TikTok, Instagram, Facebook or Google Maps loads without the visitor's consent, and
   photos follow an image policy that protects minors.
+- 🔎 **Google and AI assistants:** church listing with address and service times (`Church` structured data), photo
+  preview when shared, and a sitemap and `llms.txt` generated on every release.
 - ⚖️ **Legal center:** privacy, cookies, terms, donations, image use and accessibility.
+- 💸 **Minimal cost:** the church only pays for the domain; the site, functions and admin panel run on free plans.
 - ⚡ **Lightweight:** hand-written CSS with no frameworks, and animations that respect "reduce motion".
 
 > 🔒 The code is private: it's a client project.
