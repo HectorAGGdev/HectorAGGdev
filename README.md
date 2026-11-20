@@ -18,6 +18,7 @@ funcionan en **español e inglés** y traen un panel sencillo para que el dueño
     El Salvador.
   - [AUTO LIFE](https://www.autolifellc.com), catálogo bilingüe de un concesionario de autos usados en Laurel,
     Maryland (EE. UU.).
+- 🔭 **Ahora mismo:** disponible para proyectos nuevos.
 - 💬 **Pregúntame sobre:** Next.js, Supabase, seguridad web, SEO para negocios locales y sitios bilingües.
 - 📫 **¿Quieres una página web?** Escríbenos por [Instagram](https://www.instagram.com/mr_anchetaa/).
 
@@ -100,6 +101,14 @@ donaciones, pensado primero para el celular. El equipo de multimedia actualiza e
 - 💸 **Costo mínimo:** la iglesia solo paga el dominio; el sitio, las funciones y el panel corren en planes gratuitos.
 - ⚡ **Liviano:** CSS propio sin frameworks y animaciones que respetan la opción "reducir movimiento".
 
+<p>
+  <img src="https://img.shields.io/badge/Lighthouse_celular-84--85-ffa400?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse en celular: 84 a 85">
+  <img src="https://img.shields.io/badge/Lighthouse_computadora-99-0cce6b?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse en computadora: 99">
+  <img src="https://img.shields.io/badge/Accesibilidad-100-0cce6b?style=flat-square" alt="Accesibilidad: 100">
+  <img src="https://img.shields.io/badge/Buenas_pr%C3%A1cticas-100-0cce6b?style=flat-square" alt="Buenas prácticas: 100">
+  <img src="https://img.shields.io/badge/SEO-100-0cce6b?style=flat-square" alt="SEO: 100">
+</p>
+
 `React` · `Vite` · `CSS` · `Vercel Functions` · `Vercel Middleware` · `Sveltia CMS` · `Python`
 
 > 🔒 El código es privado: es un proyecto de cliente.
@@ -156,6 +165,7 @@ in **English and Spanish**, and come with a simple admin panel so owners can upd
   - [Ministerios Belén](https://ministeriosbelen.com), a bilingual website for a Christian church in Chalchuapa,
     El Salvador.
   - [AUTO LIFE](https://www.autolifellc.com), a bilingual catalog for a used car dealership in Laurel, Maryland (USA).
+- 🔭 **Currently:** available for new projects.
 - 💬 **Ask me about:** Next.js, Supabase, web security, local-business SEO and bilingual websites.
 - 📫 **Want a website?** Message us on [Instagram](https://www.instagram.com/mr_anchetaa/).
 
@@ -212,6 +222,7 @@ events and photos on their own.
 - ⚖️ **Legal center:** privacy, cookies, terms, donations, image use and accessibility.
 - 💸 **Minimal cost:** the church only pays for the domain; the site, functions and admin panel run on free plans.
 - ⚡ **Lightweight:** hand-written CSS with no frameworks, and animations that respect "reduce motion".
+- ✅ **Measured quality:** Lighthouse 84–85 on mobile and 99 on desktop; accessibility, best practices and SEO at 100.
 
 > 🔒 The code is private: it's a client project.
 
