@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="banner.svg" alt="Héctor Guevara · Desarrollador web en LAB · Sitios rápidos, seguros y bilingües para negocios" width="100%">
+  <img src="banner.svg" alt="Héctor Guevara · Desarrollador web freelance · Sitios rápidos, seguros y bilingües para negocios" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LAB-Desarrollo_web-1a1440?style=for-the-badge" alt="LAB · Desarrollo web">
+  <img src="https://img.shields.io/badge/Freelance-Desarrollo_web-1a1440?style=for-the-badge" alt="Freelance · Desarrollo web">
   <img src="https://img.shields.io/badge/Sitios-Espa%C3%B1ol_%7C_English-0e7490?style=for-the-badge" alt="Sitios en español e inglés">
-  <a href="https://www.instagram.com/mr_anchetaa/"><img src="https://img.shields.io/badge/%C2%BFQuieres_una_p%C3%A1gina_web%3F-Escr%C3%ADbenos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="¿Quieres una página web? Escríbenos por Instagram"></a>
+  <a href="https://wa.me/50375555736"><img src="https://img.shields.io/badge/%C2%BFQuieres_una_p%C3%A1gina_web%3F-Escr%C3%ADbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="¿Quieres una página web? Escríbeme por WhatsApp"></a>
 </p>
 
 ## 👋 Hola, soy Héctor
 
-Desarrollador web en **LAB**. Hago sitios para negocios y organizaciones que se ven bien en el celular, cargan rápido,
+Desarrollador web **freelance** en El Salvador. Hago sitios para negocios y organizaciones que se ven bien en el celular, cargan rápido,
 funcionan en **español e inglés** y traen un panel sencillo para que el dueño actualice su información sin depender de nadie.
 
 - ✅ **Recién entregados y en línea:**
   - [Ministerios Belén](https://ministeriosbelen.com), sitio bilingüe de una iglesia cristiana en Chalchuapa,
     El Salvador.
   - [AUTO LIFE](https://www.autolifellc.com), catálogo bilingüe de un concesionario de autos usados en Laurel,
-    Maryland (EE. UU.).
+    Maryland (EE. UU.), hecho junto al equipo LAB.
 - 🔭 **Ahora mismo:** disponible para proyectos nuevos.
 - 💬 **Pregúntame sobre:** Next.js, Supabase, seguridad web, SEO para negocios locales y sitios bilingües.
-- 📫 **¿Quieres una página web?** Escríbenos por [Instagram](https://www.instagram.com/mr_anchetaa/).
+- 📫 **¿Quieres una página web?** Escríbeme por [WhatsApp](https://wa.me/50375555736).
 
 ## 🛠️ Lo que hago
 
@@ -43,7 +43,8 @@ funcionan en **español e inglés** y traen un panel sencillo para que el dueño
 <a href="https://www.autolifellc.com"><img src="autolife.jpg" alt="Sitio de AUTO LIFE: página de inicio en computadora y lista de autos en el celular" width="100%"></a>
 
 Sitio público y panel de administración. El cliente ve el inventario con fotos reales, filtra por marca, precio o
-tipo, y escribe por WhatsApp; el personal publica y actualiza los autos desde el celular.
+tipo, y escribe por WhatsApp; el personal publica y actualiza los autos desde el celular. Proyecto hecho en
+colaboración con el equipo **LAB**.
 
 - 🔴 **Inventario en vivo:** cuando un auto se marca como vendido, cambia en todas las pantallas abiertas en
   ~1 segundo, sin recargar.
@@ -146,9 +147,9 @@ donaciones, pensado primero para el celular. El equipo de multimedia actualiza e
 
 ## 📬 Contacto
 
-¿Quieres una página web para tu negocio? Escríbenos por Instagram y te respondemos.
+¿Quieres una página web para tu negocio? Escríbeme por WhatsApp y te respondo.
 
-<a href="https://www.instagram.com/mr_anchetaa/"><img src="https://img.shields.io/badge/Instagram-Escr%C3%ADbenos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Escríbenos por Instagram"></a>
+<a href="https://wa.me/50375555736"><img src="https://img.shields.io/badge/WhatsApp-Escr%C3%ADbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Escríbeme por WhatsApp"></a>
 
 ---
 
@@ -157,16 +158,16 @@ donaciones, pensado primero para el celular. El equipo de multimedia actualiza e
 
 ### 👋 Hi, I'm Héctor
 
-Web developer at **LAB**. I build websites for businesses and organizations that look great on phones, load fast, work
+Freelance web developer based in El Salvador. I build websites for businesses and organizations that look great on phones, load fast, work
 in **English and Spanish**, and come with a simple admin panel so owners can update their information on their own.
 
 - ✅ **Just delivered and live:**
   - [Ministerios Belén](https://ministeriosbelen.com), a bilingual website for a Christian church in Chalchuapa,
     El Salvador.
-  - [AUTO LIFE](https://www.autolifellc.com), a bilingual catalog for a used car dealership in Laurel, Maryland (USA).
+  - [AUTO LIFE](https://www.autolifellc.com), a bilingual catalog for a used car dealership in Laurel, Maryland (USA), built with the LAB team.
 - 🔭 **Currently:** available for new projects.
 - 💬 **Ask me about:** Next.js, Supabase, web security, local-business SEO and bilingual websites.
-- 📫 **Want a website?** Message us on [Instagram](https://www.instagram.com/mr_anchetaa/).
+- 📫 **Want a website?** Message me on [WhatsApp](https://wa.me/50375555736).
 
 ### 🛠️ What I do
 
@@ -180,7 +181,8 @@ in **English and Spanish**, and come with a simple admin panel so owners can upd
 ### ⭐ Featured project: AUTO LIFE, bilingual used car catalog (Laurel, Maryland, USA)
 
 ✅ **Live since October 2026** at [autolifellc.com](https://www.autolifellc.com). Public website and admin panel. Customers browse the inventory with real photos, filter by make, price or body style,
-and message the dealer on WhatsApp; staff publish and update cars from their phones.
+and message the dealer on WhatsApp; staff publish and update cars from their phones. Built together with the
+**LAB** team.
 
 - 🔴 **Live inventory:** when a car is marked as sold, every open screen updates in about 1 second, no reload needed.
 - 🌎 **Bilingual end to end:** website, admin panel and descriptions in English and Spanish, with no external translator.
